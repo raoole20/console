@@ -1,0 +1,16 @@
+{
+  "name": "05-aplicacion",
+  "version": "1.0.0",
+  "description": "Aplicaicon de consola",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raul espina",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^8.2.0",
+    "uuid": "^8.3.2"
+  }
+}
